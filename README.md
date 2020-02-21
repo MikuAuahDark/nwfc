@@ -1,7 +1,7 @@
 NWFC
 =====
 
-Wave Function Collapse for LÖVE.
+Wave Function Collapse for LÖVE. Moved to https://github.com/MikuAuahDark/NPad93
 
 LÖVE 11.3 is required.
 
